@@ -8,7 +8,7 @@ Leone Fernandes \
 Lucas Ferreira 
 
 **Professor** \
-Thiago Narak
+Thiago Narak Carvalho de Oliveira 
 
 ## Sobre o Projeto
 Este projeto tem como objetivo criar um aplicativo simples que exibe uma lista de filmes com seus respectivos títulos e detalhes. Para isso, utilizamos o componente ``RecyclerView``, que oferece melhor performance e flexibilidade em comparação a componentes antigos como ``ListView``.
