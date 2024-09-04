@@ -1,5 +1,5 @@
 # Projeto: Lista de Filmes com RecyclerView
-Aplicativo Android para exibição de uma lista de filmes utilizando ``RecyclerView``, que oferece uma solução eficiente e moderna para exibir grandes volumes de dados. Este projeto foi desenvolvido como parte da disciplina Desenvolvimento de Plataformas Móveis.
+Aplicativo Android para exibição de uma lista de filmes utilizando ``RecyclerView``, que oferece uma solução eficiente e moderna para exibir grandes volumes de dados. Este projeto foi desenvolvido como parte da disciplina Desenvolvimento de Plataformas Móveis, na Universidade de Fortaleza (UNIFOR).
 
 **Desenvolvedores** \
 Anna Maria \
@@ -23,4 +23,5 @@ Este projeto tem como objetivo criar um aplicativo simples que exibe uma lista d
 - Linguagem: Java/Kotlin
 - IDE: Android Studio
 - Biblioteca: ``RecyclerView`` (parte da biblioteca androidx)
+
 
