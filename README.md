@@ -1,23 +1,22 @@
 # Projeto: Lista de Filmes com RecyclerView
 Aplicativo Android para exibição de uma lista de filmes utilizando RecyclerView, que oferece uma solução eficiente e moderna para exibir grandes volumes de dados. Este projeto foi desenvolvido como parte da disciplina Desenvolvimento de Plataformas Móveis.
 
-Desenvolvedores
+## Desenvolvedores
 Anna Maria - 2316151
 Jardiana Galvão - 2312660
 Leone Fernandes - 2315740
 Lucas Ferreira - 2312638
 
-** Índice
+## Índice
 Sobre o Projeto
 Funcionalidades
 Tecnologias Utilizadas
 Como Executar o Projeto
-Contribuições
-Licença
-Sobre o Projeto
+
+## Sobre o Projeto
 Este projeto tem como objetivo criar um aplicativo simples que exibe uma lista de filmes com seus respectivos títulos e detalhes. Para isso, utilizamos o componente RecyclerView, que oferece melhor performance e flexibilidade em comparação a componentes antigos como ListView.
 
-Funcionalidades
+## Funcionalidades
 Exibição de uma lista de filmes com título e descrição.
 Uso do RecyclerView para otimizar a exibição de listas grandes.
 Implementação de um Adapter para vincular dados dos filmes às views.
