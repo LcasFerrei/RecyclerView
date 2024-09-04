@@ -2,7 +2,7 @@
 Aplicativo Android para exibição de uma lista de filmes utilizando ``RecyclerView``, que oferece uma solução eficiente e moderna para exibir grandes volumes de dados. Este projeto foi desenvolvido como parte da disciplina Desenvolvimento de Plataformas Móveis.
 
 ## Desenvolvedores
-Anna Maria 
+Anna Maria \
 Jardiana Galvão 
 Leone Fernandes 
 Lucas Ferreira 
