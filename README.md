@@ -11,15 +11,16 @@ Lucas Ferreira
 Thiago Narak
 
 ## Sobre o Projeto
-Este projeto tem como objetivo criar um aplicativo simples que exibe uma lista de filmes com seus respectivos títulos e detalhes. Para isso, utilizamos o componente RecyclerView, que oferece melhor performance e flexibilidade em comparação a componentes antigos como ListView.
+Este projeto tem como objetivo criar um aplicativo simples que exibe uma lista de filmes com seus respectivos títulos e detalhes. Para isso, utilizamos o componente ``RecyclerView``, que oferece melhor performance e flexibilidade em comparação a componentes antigos como ``ListView``.
 
 ## Funcionalidades
-Exibição de uma lista de filmes com título e descrição.
-Uso do RecyclerView para otimizar a exibição de listas grandes.
-Implementação de um Adapter para vincular dados dos filmes às views.
-Suporte para diferentes layouts usando o LayoutManager (linear, grid, etc.).
-Tecnologias Utilizadas
-Linguagem: Java/Kotlin
-IDE: Android Studio
-Biblioteca: RecyclerView (parte da biblioteca androidx)
+- Exibição de uma lista de filmes com título e descrição.
+- Uso do ``RecyclerView`` para otimizar a exibição de listas grandes.
+- Implementação de um ``Adapter`` para vincular dados dos filmes às views.
+- Suporte para diferentes layouts usando o ``LayoutManager`` (linear, grid, etc.).
+  
+## Tecnologias Utilizadas
+- Linguagem: Java/Kotlin
+- IDE: Android Studio
+- Biblioteca: ``RecyclerView`` (parte da biblioteca androidx)
 
