@@ -3,8 +3,8 @@ Aplicativo Android para exibição de uma lista de filmes utilizando ``RecyclerV
 
 ## Desenvolvedores
 Anna Maria \
-Jardiana Galvão 
-Leone Fernandes 
+Jardiana Galvão \
+Leone Fernandes \
 Lucas Ferreira 
 
 ## Professor
