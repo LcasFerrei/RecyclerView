@@ -24,6 +24,6 @@ Este projeto tem como objetivo criar um aplicativo simples que exibe uma lista d
 - IDE: Android Studio
 - Biblioteca: ``RecyclerView`` (parte da biblioteca androidx)
 
-- **Link da Apresentação** {https://www.canva.com/design/DAGPy8ym880/ltrEEqfSy3WNu9wjd9axeA/view?utm_content=DAGPy8ym880&utm_campaign=designshare&utm_medium=link&utm_source=editor}
+ [**Link da Apresentação**](https://www.canva.com/design/DAGPy8ym880/ltrEEqfSy3WNu9wjd9axeA/view?utm_content=DAGPy8ym880&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
